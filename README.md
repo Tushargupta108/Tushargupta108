@@ -24,7 +24,7 @@ const me={
 
 ## 🚀 Featured Projects
 ### Cravings Water Website
-- Code: https://github.com/Tushargupta108/www.cravingswater.com
+- Code: https://github.com/Tushargupta108/cravingswater
 
 ### JavaScript Projects
 - Code: https://github.com/Tushargupta108/JavaScript-Projects
