@@ -35,10 +35,7 @@ const me={
 </p>
 
 ## 📊 GitHub Analytics
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tushargupta108&show_icons=true&theme=nord"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushargupta108&layout=compact&theme=nord"/>
-</p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Tushargupta108&theme=nord"/>
