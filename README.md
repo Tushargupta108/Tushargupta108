@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Tushargupta108&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20To-Work-7dd3fc?style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/Tushargupta108?style=for-the-badge"/>
-</p>
+
 
 ## 👨‍💻 Who I Am
 ```ts
@@ -59,4 +59,9 @@ const me={
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=140&section=footer"/>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tushargupta108/Tushargupta108/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</p>
 
