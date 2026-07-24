@@ -53,6 +53,7 @@ const me={
 <p>
 <a href="https://www.linkedin.com/in/tushar-gupta-599884331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:tushargupta10072003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+ <a href= "https://leetcode.com/u/tushargupta1008"><img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fleetcode.com%2F&ved=0CBYQjRxqFwoTCMiIkYfA6pUDFQAAAAAdAAAAABAF&opi=89978449"></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=140&section=footer"/>
